@@ -5,7 +5,7 @@
 - <b>Machine Learning & AI</b>
   - [Computer Vision - Dog Vision](https://github.com/Delvin2011/Delvin2011.github.io/blob/master/dog_vision.ipynb)
 - <b>Full Stack Web App (React, NodeJS, Redux, Firebase)</b>
-  - [StarHome Cleaners](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Home Cleaning Online Booking)</b></i>
+  - [StarHome Cleaners](https://github.com/Delvin2011/StarHomeCleaners) <b><i>(Home Cleaning Online Booking)</b></i>
 
 <h2>📺 Certifications</h2>
 
