@@ -9,6 +9,8 @@
   - [Grocery Online](https://github.com/Delvin2011/GroceryOnline) <b><i>(Grocery Buying Online Store)</b></i> 
 - <b>Full Stack Mobile Apps (React Native, Redux, Firebase)</b>
 - <b>Full Stack .Net Apps (.Net C#, Docker, Kubernetes, Azure DevOps, Azure Cloud Services)</b>
+  - [Simple REST Api](https://github.com/Delvin2011/FunShoppingAPI) <b><i>(Build, Test and Deploy a REST API with Azure DevOps)</b></i> 
+
 
 <h2>📺 Certifications</h2>
 
