@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Machine Learning & AI</b>
-  - [Computer Vision - Dog Vision](https://github.com/Delvin2011/Delvin2011.github.io/blob/master/dog_vision.ipynb)
+  - [Computer Vision](https://github.com/Delvin2011/Delvin2011.github.io/blob/master/dog_vision.ipynb)<b><i>(Scan & Predict Dog Breed)</b></i>
 - <b>Full Stack Web Apps (React, NodeJS, Redux, Firebase)</b>
   - [StarHome Cleaners](https://github.com/Delvin2011/StarHomeCleaners) <b><i>(Home Cleaning Online Booking)</b></i>
   - [Grocery Online](https://github.com/Delvin2011/GroceryOnline) <b><i>(Grocery Buying Online Store)</b></i> 
