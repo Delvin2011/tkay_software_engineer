@@ -10,8 +10,8 @@
 - <b>Full Stack Mobile Apps (React Native, Redux, Firebase)</b>
 - <b>Full Stack .Net Apps (.Net C#, Docker, Kubernetes, Azure DevOps, Azure Cloud Services)</b>
   - [Simple REST Api](https://github.com/Delvin2011/FunShoppingAPI) <b><i>(Build, Test and Deploy a REST API with Azure DevOps)</b></i> 
-
-
+  - [Simple REST Api Container](https://github.com/Delvin2011/CatalogAPI) <b><i>(Dockerize & Deploy a .NET REST API & SQL instance on Azure)</b></i> 
+  
 <h2>📺 Certifications</h2>
 
 - [Microsoft Azure Fundamentals](https://www.credly.com/badges/272bd332-3141-49c4-927f-4c7c95721448/public_url)
