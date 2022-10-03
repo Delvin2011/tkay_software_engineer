@@ -7,7 +7,8 @@
 - <b>Full Stack Web Apps (React, NodeJS, Redux, Firebase)</b>
   - [StarHome Cleaners](https://github.com/Delvin2011/StarHomeCleaners) <b><i>(Home Cleaning Online Booking)</b></i>
   - [Grocery Online](https://github.com/Delvin2011/GroceryOnline) <b><i>(Grocery Buying Online Store)</b></i> 
-- <b>Full Stack Mobile Apps (React Native, Redux, Firebase)</b>
+- <b>Full Stack Mobile Apps (React Native, Redux, Firebase, Chat Messaging, Voice & Video Calling)</b>
+  - [Afrimedics](https://github.com/Delvin2011/AfrimedicsServiceProvider)(Medical service provider application )
 - <b>Full Stack .Net Apps (.Net C#, Docker, Kubernetes, Azure DevOps, Azure Cloud Services)</b>
   - [Simple REST Api](https://github.com/Delvin2011/FunShoppingAPI) <b><i>(Build, Test and Deploy a REST API with Azure DevOps)</b></i> 
   - [Simple REST Api Container](https://github.com/Delvin2011/CatalogAPI) <b><i>(Dockerize & Deploy a .NET REST API & SQL instance on Azure)</b></i> 
