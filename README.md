@@ -1,4 +1,4 @@
-<h1>Hi, I'm Takudzwa! <br/><a href="https://github.com/Delvin2011">Software Engineer (Mid-Senior)</a></h1>
+<h1>Hi, I'm Takudzwa! <br/><a href="https://github.com/Delvin2011">Software Engineer (Senior)</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
